@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nutrition-calories-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/nutrition-calories-app/static/js/main.c79cf1c5.chunk.js",
+    "main.js.map": "/nutrition-calories-app/static/js/main.c79cf1c5.chunk.js.map",
+    "runtime-main.js": "/nutrition-calories-app/static/js/runtime-main.cec7b036.js",
+    "runtime-main.js.map": "/nutrition-calories-app/static/js/runtime-main.cec7b036.js.map",
+    "static/js/2.122aca32.chunk.js": "/nutrition-calories-app/static/js/2.122aca32.chunk.js",
+    "static/js/2.122aca32.chunk.js.map": "/nutrition-calories-app/static/js/2.122aca32.chunk.js.map",
+    "static/js/3.6a4e7a28.chunk.js": "/nutrition-calories-app/static/js/3.6a4e7a28.chunk.js",
+    "static/js/3.6a4e7a28.chunk.js.map": "/nutrition-calories-app/static/js/3.6a4e7a28.chunk.js.map",
+    "index.html": "/nutrition-calories-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/nutrition-calories-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.122aca32.chunk.js.LICENSE.txt": "/nutrition-calories-app/static/js/2.122aca32.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nutrition-calories-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cec7b036.js",
+    "static/js/2.122aca32.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.c79cf1c5.chunk.js"
+  ]
+}
