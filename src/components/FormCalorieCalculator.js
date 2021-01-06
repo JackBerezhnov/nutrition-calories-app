@@ -15,12 +15,8 @@ function FormCalorieCalculator() {
               <input type="radio" value="Male" name="gender" ref={register} /> Male
               <input type="radio" value="Female" name="gender" ref={register} /> Female
           </label>
-          <input 
-            type="password" 
-            placeholder="Password" 
-            name="password" 
-            ref={register}
-          />
+          <input type="number" placeholder="Height cm" name="height" ref={register}/>
+          <input type="number" placeholder="Weight kg" name="weight" ref={register}/>
           <input type="submit" value="Calculate" />
         </form>
     );
